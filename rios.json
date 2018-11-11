@@ -1,0 +1,14 @@
+{"_id":{"$oid":"5be47e3c45740f6d66d474d9"},"Rio":"Rio Miño","Recorrido":310.0,"Cuenca":12.486,"Caudal":340.0}
+{"_id":{"$oid":"5be47e8845740f6d66d474da"},"Rio":"Rio Duero","Recorrido":897.0,"Cuenca":97.29,"Caudal":675.0}
+{"_id":{"$oid":"5be47ef245740f6d66d474db"},"Rio":"Rio Tajo","Recorrido":1.007,"Cuenca":80.6,"Caudal":444.0}
+{"_id":{"$oid":"5be47f2645740f6d66d474dc"},"Rio":"Rio Guadiana","Recorrido":744.0,"Cuenca":67.633,"Caudal":78.0}
+{"_id":{"$oid":"5be47f5f45740f6d66d474dd"},"Rio":"Rio Guadalquivir","Recorrido":657.0,"Cuenca":57.071,"Caudal":165.0}
+{"_id":{"$oid":"5be47fc445740f6d66d474de"},"Rio":"Rio Ter","Recorrido":208.0,"Cuenca":3.01,"Caudal":17.0}
+{"_id":{"$oid":"5be47fef45740f6d66d474df"},"Rio":"Rio Llobregat","Recorrido":148.0,"Cuenca":5.0,"Caudal":19.0}
+{"_id":{"$oid":"5be4801c45740f6d66d474e0"},"Rio":"Rio Ebro","Recorrido":930.0,"Cuenca":86.1,"Caudal":600.0}
+{"_id":{"$oid":"5be4804f45740f6d66d474e1"},"Rio":"Rio Mijares","Recorrido":156.0,"Cuenca":4.028,"Caudal":15.0}
+{"_id":{"$oid":"5be4807645740f6d66d474e2"},"Rio":"Rio Turia","Recorrido":280.0,"Cuenca":6.394,"Caudal":14.0}
+{"_id":{"$oid":"5be4809445740f6d66d474e3"},"Rio":"Rio Jucar","Recorrido":498.0,"Cuenca":21.579,"Caudal":50.0}
+{"_id":{"$oid":"5be480ba45740f6d66d474e4"},"Rio":"Rio Segura","Recorrido":325.0,"Cuenca":18.87,"Caudal":27.0}
+{"_id":{"$oid":"5be480e745740f6d66d474e5"},"Rio":"Rio Guadalhorce","Recorrido":154.0,"Cuenca":3.147,"Caudal":8.0}
+{"_id":{"$oid":"5be4810c45740f6d66d474e6"},"Rio":"Rio Nalon","Recorrido":138.0,"Cuenca":3.692,"Caudal":55.0}
